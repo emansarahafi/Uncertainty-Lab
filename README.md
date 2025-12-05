@@ -1,4 +1,4 @@
-# Uncertainty-Lab
+# Uncertainty Lab
 
 An Artificial Intelligence (CS485) lab demonstrating Bayesian Networks and probabilistic reasoning using the classic burglar alarm problem.
 
